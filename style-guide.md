@@ -14,7 +14,7 @@ The designs were created to the following widths:
 ### Primary
 
 - Green 500: #3c8067
-- Green 700: hsl(158, 42%, 18%)
+- Green 700: #1b4133
 
 ### Neutral
 

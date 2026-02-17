@@ -91,7 +91,7 @@ footer {
 .add-to-cart {
   font-size: 0.8rem;
   background-color: #3c8067;
-  color: #f2ebe3;
+  color: #ffffff;
   letter-spacing: 1px;
   font-weight: 700;
   font-family: montserrat, sans-serif;
@@ -105,9 +105,13 @@ footer {
 
 svg {
   /* margin: 0.6rem; */
-  fill: #f2ebe3;
+  fill: #ffffff;
   font-size: 0.8rem;
   width: 1rem;
   height: 1rem;
   margin-right: 1rem;
+}
+
+.add-to-cart:hover, .add-to-cart:focus-visible {
+  background-color: #1b4133;
 }
