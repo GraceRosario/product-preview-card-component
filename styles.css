@@ -112,6 +112,8 @@ svg {
   margin-right: 1rem;
 }
 
-.add-to-cart:hover, .add-to-cart:focus-visible {
+.add-to-cart:hover,
+.add-to-cart:focus-visible {
   background-color: #1b4133;
+  cursor: pointer;
 }
