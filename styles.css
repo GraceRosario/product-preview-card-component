@@ -88,21 +88,26 @@ footer {
   justify-content: space-between;
 }
 
-button {
+.add-to-cart {
   font-size: 0.8rem;
   background-color: #3c8067;
   color: #f2ebe3;
   letter-spacing: 1px;
-  font-style: 700;
+  font-weight: 700;
   font-family: montserrat, sans-serif;
   border: #3c8067;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 0.4rem;
   border-radius: 10px;
+  height: 3.12rem;
 }
 
 svg {
-  margin: 0.6rem;
+  /* margin: 0.6rem; */
+  fill: #f2ebe3;
+  font-size: 0.8rem;
+  width: 1rem;
+  height: 1rem;
+  margin-right: 1rem;
 }
