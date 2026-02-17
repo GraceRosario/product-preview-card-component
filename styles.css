@@ -125,7 +125,12 @@ svg {
 }
 
 footer {
-  padding: 2rem 0;
+  font-size: 0.8rem;
+  padding: 2rem 1rem;
+}
+
+a {
+  color: #1b4133;
 }
 
 @media (max-width: 465px) {
